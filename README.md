@@ -1,2 +1,3 @@
-# backend_2021_02
-Backend Node JS
+Correr la instruccion 
+npm install
+y node index.js
